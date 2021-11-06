@@ -99,6 +99,18 @@ padding:50px;
 background-color:rgba(255,255,255,0.5);
 border-radius:20%;
 }
+.slikediv
+{
+margin-left:90px;
+margin-right:10px;
+margin-bottom:180px;
+width:40%;
+padding:15px;
+background-color:rgba(255,255,255,0.5);
+border-radius:20%;
+display:inline-block;
+text-align:center;
+}
 #prelaz
 {
 text-decoration:underline;
@@ -121,4 +133,14 @@ float:left;
 {
 transition:0.5s ease;
 background-color:rgba(255,255,0,0.5);
+}
+#slika
+{
+height:400px;
+width: 600px;
+padding: 15px;
+border-radius: 20%;
+}
+#zaposlenje
+{
 }
